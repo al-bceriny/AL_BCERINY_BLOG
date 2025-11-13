@@ -17,14 +17,15 @@ This project is a fully functional web application built using the Laravel Frame
 - Git & GitHub for version control
 
 ⚙️ Installation & Setup:
-git clone [https://github.com/your-repo-link.git](https://github.com/al-bceriny/AL_BCERINY_BLOG.git)
-1- cd your-project-folder
-2- composer install
-3- cp .env.example .env
-4- php artisan key:generate
+
+# git clone [https://github.com/your-repo-link.git](https://github.com/al-bceriny/AL_BCERINY_BLOG.git)
+- cd your-project-folder
+- composer install
+- cp .env.example .env
+- php artisan key:generate
 * Update DB credentials in .env file*
-5- php artisan migrate --seed
-6- php artisan serve.
+- php artisan migrate --seed
+- php artisan serve.
 
 Your application will be available at: http://localhost:8000.
 
