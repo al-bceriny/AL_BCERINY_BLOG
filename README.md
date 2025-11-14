@@ -18,7 +18,7 @@ This project is a fully functional web application built using the Laravel Frame
 
 ⚙️ Installation & Setup:
 
-# git clone [https://github.com/your-repo-link.git](https://github.com/al-bceriny/AL_BCERINY_BLOG.git)
+# git clone https://github.com/al-bceriny/AL_BCERINY_BLOG.git
 - cd your-project-folder
 - composer install
 - cp .env.example .env
